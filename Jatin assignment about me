@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Welcome to my site!</title>
+<link rel="stylesheet"href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+<style>
+.socal-icons{
+margin-top; 10px;
+}
+.socal-icons a {
+margin right: 10px:
+xolor: #000:
+font size: 24px;
+}
+</style>
+</head>
+<body>
+<header>
+<h1><sup>jatin site</sup></h1>
+</header>
+
+<hr>
+<article>
+<h2>About me</h2>
+<img sr="users/jatin/downloads/pp.jpeg"alt="profile picture"width="300"height="300">
+<p> i am jatin, i am 23 years old <abbr tittle="interactive media design">IMD</abbr>student from india
+i have a passion for creativity and i am always eager to learn new thing. i enjoy exploring various
+forms of art and design, and i strive to incoporate them into my work. with a background in<abbr title=
+"intreactive media design">IMD<?abbr>, i am intersed in using design software and makind
+anime. </p>
+<p>reading manga is one of my greatest sources of inspiration and relaxation. I find solace in reading to 
+different types of mangas which often fulesb my creativity. apart from my academic pursuits, 
+I love traveling to new places, trying new cuisines and many others things.</P>
+
+</article>
+
+
+<hr>
+
+
+<blockquote>
+<p>  a smile is the best way to get away with trouble even if it's a fake one</p>
+<cite><em>masashi kishimoto</em></cite>
+</blockquote>
+
+
+<hr>
+<article><p>click<a href="social-icons">
+<a href="https://www.instafram.com/khanchi_speaking/"><i class="fab fa-instagram"></i></a>
+</div></article>
+<hr>
+
+
+<footer>
+<p>&copy; 2023 jatin site. all rights reserved.</p>
+
+</footer
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/js/all.min.js"></script>
+</body>
+</html>
